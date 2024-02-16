@@ -1,2 +1,2 @@
-# ilera-frontend
-Frontend repository for Ilera project 
+# Myfoodie-frontend
+Frontend repository for my foodie
